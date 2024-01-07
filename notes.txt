@@ -1,0 +1,3 @@
+Html --> Content
+Css --> Apperance
+Js --> Functionality
